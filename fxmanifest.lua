@@ -6,7 +6,7 @@ name 'ug-identity'
 description 'Identity for UgCore by UgDev'
 author 'UgDev'
 version '3.5'
-url 'https://github.com/UgDevOfc/ug-identity'
+url 'https://github.com/ugcore-framework/ug-identity'
 ui_page 'html/index.html'
 
 shared_scripts {
